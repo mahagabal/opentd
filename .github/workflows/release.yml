@@ -5,6 +5,8 @@ on:
   - cron: "25 */6 * * *"
 jobs:
   source:
-  - uses: actions/checkout@v4
-  - name: Pre-Source
-    run:  python src/misc.cpp
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pre-Source
+        run:  python src/misc.cpp
