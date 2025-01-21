@@ -1,6 +1,6 @@
 ## 15.x
 
-### 15.0-beta1 (2024-12-24)
+### 25.0-beta1 (2024-12-24)
 
 - Feature: Town, industry and vehicle window zoom with mouse wheel (#12810, #12809, #12797)
 - Feature: Show count of towns and industries in their directory window captions (#12800)
