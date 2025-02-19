@@ -9,7 +9,7 @@ What is simple to some might appear very complicated to others. Documentation he
 ### Functions
 * Function names use [CamelCase](http://www.wikipedia.org/wiki/Camelcase) without underscores.
 * Opening curly bracket **{** for a function starts on the next line.
-* Use Foo() instead of Foo(void).
+* Use Foo() instead of Foo(void)
 ```c++
 void ThisIsAFunction()
 {
