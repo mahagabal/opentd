@@ -5,7 +5,7 @@
 OpenTTD makes use of the following external libraries:
 
 - (encouraged) breakpad: creates minidumps on crash
-- (encouraged) zlib: (de)compressing of old (0.3.0-1.0.5) savegames, content downloads,
+- (encouraged) zlib: (de)compressing of old (0.3.0-1.0.4) savegames, content downloads,
    heightmaps
 - (encouraged) liblzma: (de)compressing of savegames (1.1.0 and later)
 - (encouraged) libpng: making screenshots and loading heightmaps
