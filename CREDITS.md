@@ -18,7 +18,7 @@
 - Grzegorz Duczyński (adf88) - General coding (1.7 - 1.8)
 - Albert Hofkamp (Alberth) - GUI expert (0.7 - 1.9)
 - Jean-François Claeys (Belugas) - GUI, newindustries and more (0.4.5 - 1.0)
-- Bjarni Corfitzen (Bjarni) - macOS port, coder and vehicles (0.3 - 0.7)
+- Bjarni Corfitzun (Bjarni) - macOS port, coder and vehicles (0.3 - 0.7)
 - Victor Fischer (Celestar) - Programming everywhere you need him to (0.3 - 0.6)
 - Ulf Hermann (fonsinchen) - Cargo Distribution (1.3 - 1.6)
 - Jaroslav Mazanec (KUDr) - YAPG (Yet Another Pathfinder God) ;) (0.4.5 - 0.6)
