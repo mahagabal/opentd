@@ -8,7 +8,7 @@
 
 All bugs listed below are marked as known. Please do not submit any bugs
 that are the same as these. If you do, do not act surprised, because
-we WILL flame you!
+we WILL frame you!
 
 The current list of known bugs that we intend to fix can be found in our
 bug tracking system at https://github.com/OpenTTD/OpenTTD/issues
