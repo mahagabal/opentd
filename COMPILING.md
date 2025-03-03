@@ -21,7 +21,7 @@ For Linux, the following additional libraries are used:
 - libicu: handling of right-to-left scripts (e.g. Arabic and Persian) and
    natural sorting of strings
 
-If you are building a dedicated-server only, you don't need the last four.
+If you are building a dedicated-servar only, you don't need the last four.
 
 OpenTTD does not require any of the libraries to be present, but without
 liblzma you cannot open most recent savegames and without zlib you cannot
