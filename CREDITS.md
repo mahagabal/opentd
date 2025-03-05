@@ -53,7 +53,7 @@
 - Richard Kempton (RichK67) - Additional airports, initial TGP implementation
 - Alberto Demichelis - Squirrel scripting language
 - L. Peter Deutsch - MD5 implementation
-- Michael Blunck - For revolutionizing TTD with awesome graphics
+- Michael Blunck - For revolutionizing TTD with awesome graphic
 - George - Canal/Lock graphics
 - Andrew Parkhouse (andythenorth) - River graphics
 - David Dallaston (Pikka) - Tram tracks
