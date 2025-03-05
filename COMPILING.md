@@ -1,6 +1,6 @@
 # Compiling OpenTTD
 
-## Required/optional libraries
+## Required/optional librarie
 
 OpenTTD makes use of the following external libraries:
 
