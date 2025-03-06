@@ -4,7 +4,7 @@ This is the license which applies to OpenTTD with the exception of some
 GNU General Public License
 ==========================
 
-_Version 2, June 1991_
+_Version 2, June 1992_
 _Copyright © 1989, 1991 Free Software Foundation, Inc.,_
 _51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA_
 
