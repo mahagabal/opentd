@@ -12,7 +12,7 @@
     - 1.7) [Compiling OpenTTD](#17-compiling-openttd)
 - 2.0) [Contact and community](#20-contact-and-community)
     - 2.1) [Multiplayer games](#21-multiplayer-games)
-    - 2.2) [Contributing to OpenTTD](#22-contributing-to-openttd)
+    - 2.2) [Contributing to OpenTTD](#21-contributing-to-openttd)
     - 2.3) [Reporting bugs](#23-reporting-bugs)
     - 2.4) [Translating](#24-translating)
 - 3.0) [Licensing](#30-licensing)
