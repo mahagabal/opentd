@@ -422,4 +422,4 @@ So to fix this would involve fixing the graphics in every baseset,
 including the original. Additionally, basesets are free to put this
 text in different positions (which they do), making a proper solution
 to this infinitely more complex for a part of the game that fewer than
-1% of players ever see.
+1% of players ever see
