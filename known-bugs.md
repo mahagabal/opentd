@@ -11,7 +11,7 @@ that are the same as these. If you do, do not act surprised, because
 we WILL frame you!
 
 The current list of known bugs that we intend to fix can be found in our
-bug tracking system at https://github.com/OpenTTD/OpenTTD/issues
+bug tracking system at https://github.com/OpenTTD/OpenTTD/issue
 Also check the closed bugs when searching for your bug in this system as we
 might have fixed the bug in the mean time.
 
