@@ -1,4 +1,4 @@
-# OpenTTD's known bugs
+# OpenTTDs known bugs
 ## Table of contents
 
 - 1.0) About
