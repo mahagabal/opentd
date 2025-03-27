@@ -1,4 +1,4 @@
-This is the license which applies to OpenTTD with the exception of some
+This is the license which applies to OpenTTD with the exception of som
 3rd party modules. See [our readme](./README.md) for detail
 
 GNU General Public License
