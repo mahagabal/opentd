@@ -16,7 +16,7 @@ void ThisIsAFunction()
 }
 ```
 
-### Variables
+### Variable
 * Variable names are all lowercase, and use "_" as separator.
 * Global variables are preceded by an underscore. ("_") Use descriptive names because leading underscores are often used for system / compiler variables.
 * Own members of classes should always be referenced using "this->"
