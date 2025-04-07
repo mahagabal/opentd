@@ -1,7 +1,7 @@
 # OpenTTDs known bugs
 ## Table of contents
 
-- 1.0) About
+-1.0) About
 - 2.0) Known bugs
 
 ## 1.0) About
